@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<ReceipeType>
+  <Receipe>
+      <Id>1</Id>
+      <ReceipeName>Break Fast</ReceipeName>
+      <ReceipeImgName>breakfastMealImg</ReceipeImgName>
+  </Receipe>
+  <Receipe>
+      <Id>2</Id>
+      <ReceipeName>Lunch</ReceipeName>
+      <ReceipeImgName>lunchImg</ReceipeImgName>
+  </Receipe>
+  <Receipe>
+      <Id>3</Id>
+      <ReceipeName>Snacks</ReceipeName>
+      <ReceipeImgName>snackImg</ReceipeImgName>
+  </Receipe>
+  <Receipe>
+      <Id>4</Id>
+      <ReceipeName>Dinner</ReceipeName>
+      <ReceipeImgName>dinnerImg</ReceipeImgName>
+  </Receipe>
+  <Receipe>
+      <Id>5</Id>
+      <ReceipeName>Drinks</ReceipeName>
+      <ReceipeImgName>drinkImg</ReceipeImgName>
+  </Receipe>
+  <Receipe>
+      <Id>6</Id>
+      <ReceipeName>Desserts</ReceipeName>
+      <ReceipeImgName>dessertImg</ReceipeImgName>
+  </Receipe>
+  <Receipe>
+      <Id>7</Id>
+      <ReceipeName>Salads</ReceipeName>
+      <ReceipeImgName>saladImg</ReceipeImgName>
+  </Receipe>
+  <Receipe>
+      <Id>8</Id>
+      <ReceipeName>Healthy Diet</ReceipeName>
+      <ReceipeImgName>dietImg</ReceipeImgName>
+  </Receipe>
+</ReceipeType>
